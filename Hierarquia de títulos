@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Hierarquia de títulos</title>
+</head>
+<body>
+    <h1>Entendo portugal</h1> 
+    <h2>Introdução</h2>
+    <h3>Justificaticação da tematica </h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis non numquam soluta ut delectus at dignissimos, nobis sed est nihil debitis quod beatae quisquam quas, nulla provident harum necessitatibus nesciunt?
+    <h3>Caráter excepcional</h3>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis ipsam consequatur voluptas explicabo, praesentium eaque, quibusdam cupiditate et atque beatae suscipit harum nisi eos, velit a assumenda? Tempora, beatae voluptatem!
+    <h3>Perguntas de partida</h3>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero possimus quo veniam omnis sed, dolores iusto eligendi accusantium ipsa alias, enim quos architecto obcaecati? Autem dignissimos maxime odio error atque!
+    <h3>Metodologia de Investigação</h3>
+    <h4>Etapas de Investigação</h4>
+    <h4>Instrumentos de análise</h4>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum soluta nisi tenetur, quae obcaecati in eius reiciendis pariatur ullam officia asperiores debitis architecto id esse porro quod reprehenderit est ipsa.
+    <h2>Ordenamento do território em portugal</h2>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo quis odio beatae nulla, architecto qui doloremque amet ipsa ad! Voluptatibus quas recusandae, ad similique ducimus quod nisi amet sequi doloremque!
+    <h3>Os instrumentos de gestão</h3>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa debitis sit mollitia dolorem facere rem fugiat aspernatur, possimus fugit, deleniti maxime id commodi! Cupiditate velit, quo consequatur illum quaerat esse?
+</body>
+</html>
